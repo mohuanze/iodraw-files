@@ -525,6 +525,9 @@
         <mxCell id="UDo2qzgPwJcQaASFeGjB-119" value="&lt;font style=&quot;font-size: 30px&quot;&gt;0x47&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-698.6" y="3958.7" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="CGL5Q37Tz-85zLwo5ebL-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CGL5Q37Tz-85zLwo5ebL-1" target="CGL5Q37Tz-85zLwo5ebL-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CGL5Q37Tz-85zLwo5ebL-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1270" y="92.5" width="110" height="40" as="geometry" />
         </mxCell>
