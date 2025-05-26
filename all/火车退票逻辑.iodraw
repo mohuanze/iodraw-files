@@ -531,11 +531,6 @@
         <mxCell id="CGL5Q37Tz-85zLwo5ebL-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1264.5" y="92.5" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CGL5Q37Tz-85zLwo5ebL-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CGL5Q37Tz-85zLwo5ebL-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1210" y="410" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="CGL5Q37Tz-85zLwo5ebL-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CGL5Q37Tz-85zLwo5ebL-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1420" y="270" as="targetPoint" />
@@ -586,14 +581,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CGL5Q37Tz-85zLwo5ebL-5" value="提示登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CGL5Q37Tz-85zLwo5ebL-5" value="登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1267" y="215" width="115" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CGL5Q37Tz-85zLwo5ebL-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="CGL5Q37Tz-85zLwo5ebL-8" target="CGL5Q37Tz-85zLwo5ebL-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-1510" y="240" />
-              <mxPoint x="-1510" y="348" />
+              <mxPoint x="-1510" y="347" />
             </Array>
           </mxGeometry>
         </mxCell>
