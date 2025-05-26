@@ -552,7 +552,7 @@
         <mxCell id="CGL5Q37Tz-85zLwo5ebL-2" value="退票/预订/改签" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1267" y="310" width="115" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="CGL5Q37Tz-85zLwo5ebL-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CGL5Q37Tz-85zLwo5ebL-3">
+        <mxCell id="CGL5Q37Tz-85zLwo5ebL-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CGL5Q37Tz-85zLwo5ebL-61">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-692.4" y="305" as="targetPoint" />
           </mxGeometry>
