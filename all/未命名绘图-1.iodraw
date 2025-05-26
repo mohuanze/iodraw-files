@@ -534,8 +534,13 @@
         <mxCell id="CGL5Q37Tz-85zLwo5ebL-3" value="请先登录系统!" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1272.5" y="390" width="115" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="CGL5Q37Tz-85zLwo5ebL-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CGL5Q37Tz-85zLwo5ebL-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1350" y="205" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="CGL5Q37Tz-85zLwo5ebL-5" value="登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1270" y="180" width="115" height="50" as="geometry" />
+          <mxGeometry x="-1272.5" y="180" width="115" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
