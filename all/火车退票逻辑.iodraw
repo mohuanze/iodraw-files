@@ -555,6 +555,10 @@
         <mxCell id="CGL5Q37Tz-85zLwo5ebL-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CGL5Q37Tz-85zLwo5ebL-61">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-692.4" y="305" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-730" y="400" />
+              <mxPoint x="-730" y="305" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="CGL5Q37Tz-85zLwo5ebL-46" value="清缓存" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CGL5Q37Tz-85zLwo5ebL-45">
@@ -680,7 +684,7 @@
         <mxCell id="CGL5Q37Tz-85zLwo5ebL-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CGL5Q37Tz-85zLwo5ebL-55" target="CGL5Q37Tz-85zLwo5ebL-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CGL5Q37Tz-85zLwo5ebL-55" value="更新订单状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CGL5Q37Tz-85zLwo5ebL-55" value="更新退票成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1030" y="282.5" width="115" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CGL5Q37Tz-85zLwo5ebL-59" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
