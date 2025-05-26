@@ -569,8 +569,8 @@
         <mxCell id="CGL5Q37Tz-85zLwo5ebL-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="CGL5Q37Tz-85zLwo5ebL-8" target="CGL5Q37Tz-85zLwo5ebL-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1510" y="240" />
-              <mxPoint x="-1510" y="348" />
+              <mxPoint x="-1520" y="240" />
+              <mxPoint x="-1520" y="348" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -580,7 +580,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CGL5Q37Tz-85zLwo5ebL-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CGL5Q37Tz-85zLwo5ebL-8" target="CGL5Q37Tz-85zLwo5ebL-5">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1510" y="240" />
+              <mxPoint x="-1510" y="193" />
+              <mxPoint x="-1238" y="193" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CGL5Q37Tz-85zLwo5ebL-34" value="无" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CGL5Q37Tz-85zLwo5ebL-33">
+          <mxGeometry x="-0.2816" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="CGL5Q37Tz-85zLwo5ebL-8" value="账号存入缓存" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1465.5" y="212.5" width="90" height="55" as="geometry" />
