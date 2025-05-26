@@ -563,7 +563,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CGL5Q37Tz-85zLwo5ebL-3" value="请先登录系统!" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-965.3" y="280" width="115" height="50" as="geometry" />
+          <mxGeometry x="-940.1999999999999" y="282.5" width="115" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CGL5Q37Tz-85zLwo5ebL-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CGL5Q37Tz-85zLwo5ebL-5" target="CGL5Q37Tz-85zLwo5ebL-2">
           <mxGeometry relative="1" as="geometry" />
@@ -648,6 +648,9 @@
         </mxCell>
         <mxCell id="CGL5Q37Tz-85zLwo5ebL-44" value="缓存" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-754.5" y="277.5" width="90" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="CGL5Q37Tz-85zLwo5ebL-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CGL5Q37Tz-85zLwo5ebL-48" target="CGL5Q37Tz-85zLwo5ebL-50">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CGL5Q37Tz-85zLwo5ebL-48" value="登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-767" y="380" width="115" height="50" as="geometry" />
