@@ -545,7 +545,7 @@
         </mxCell>
         <mxCell id="CGL5Q37Tz-85zLwo5ebL-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CGL5Q37Tz-85zLwo5ebL-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1215" y="410" as="targetPoint" />
+            <mxPoint x="-1210" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CGL5Q37Tz-85zLwo5ebL-2" value="退票" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
