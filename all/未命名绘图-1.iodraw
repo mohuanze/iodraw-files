@@ -585,7 +585,7 @@
         <mxCell id="CGL5Q37Tz-85zLwo5ebL-9" value="30分钟" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1390" y="155" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CGL5Q37Tz-85zLwo5ebL-18" value="调用第三方退票接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CGL5Q37Tz-85zLwo5ebL-18" value="调用第三方退票" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1272" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
