@@ -539,6 +539,14 @@
         <mxCell id="CGL5Q37Tz-85zLwo5ebL-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CGL5Q37Tz-85zLwo5ebL-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1420" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1419" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CGL5Q37Tz-85zLwo5ebL-30" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CGL5Q37Tz-85zLwo5ebL-29">
+          <mxGeometry x="-0.1793" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CGL5Q37Tz-85zLwo5ebL-2" value="退票" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
