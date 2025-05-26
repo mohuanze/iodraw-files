@@ -549,7 +549,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CGL5Q37Tz-85zLwo5ebL-2" value="退票" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CGL5Q37Tz-85zLwo5ebL-2" value="退票/预订" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1267" y="310" width="115" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CGL5Q37Tz-85zLwo5ebL-3" value="请先登录系统!" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
