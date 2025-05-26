@@ -611,8 +611,8 @@
         <mxCell id="CGL5Q37Tz-85zLwo5ebL-38" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-952.8" y="80" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CGL5Q37Tz-85zLwo5ebL-39" value="登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1257" y="225" width="115" height="50" as="geometry" />
+        <mxCell id="CGL5Q37Tz-85zLwo5ebL-39" value="退票回调" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-955.3" y="180" width="115" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
