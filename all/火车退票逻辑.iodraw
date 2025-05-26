@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="ut00aptOwDmBr5INe8yp">
-    <mxGraphModel dx="2623" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2794" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -556,14 +556,15 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-692.4" y="305" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-730" y="400" />
+              <mxPoint x="-758" y="410" />
+              <mxPoint x="-730" y="410" />
               <mxPoint x="-730" y="305" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="CGL5Q37Tz-85zLwo5ebL-46" value="清缓存" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CGL5Q37Tz-85zLwo5ebL-45">
           <mxGeometry x="-0.0903" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="1" y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CGL5Q37Tz-85zLwo5ebL-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CGL5Q37Tz-85zLwo5ebL-3" target="CGL5Q37Tz-85zLwo5ebL-61">
@@ -678,7 +679,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CGL5Q37Tz-85zLwo5ebL-50" value="再次退票" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CGL5Q37Tz-85zLwo5ebL-50" value="用户再次退票" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-700" y="500" width="115" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CGL5Q37Tz-85zLwo5ebL-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CGL5Q37Tz-85zLwo5ebL-55" target="CGL5Q37Tz-85zLwo5ebL-59">
@@ -692,6 +693,9 @@
         </mxCell>
         <mxCell id="CGL5Q37Tz-85zLwo5ebL-61" value="改为预订成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-872.5999999999999" y="375" width="115" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CGL5Q37Tz-85zLwo5ebL-66" value="改为预订失败" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-852.8" y="410" width="112.8" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
