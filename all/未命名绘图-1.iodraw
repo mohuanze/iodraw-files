@@ -635,7 +635,7 @@
         <mxCell id="CGL5Q37Tz-85zLwo5ebL-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CGL5Q37Tz-85zLwo5ebL-39" target="CGL5Q37Tz-85zLwo5ebL-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CGL5Q37Tz-85zLwo5ebL-53" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CGL5Q37Tz-85zLwo5ebL-43">
+        <mxCell id="CGL5Q37Tz-85zLwo5ebL-53" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CGL5Q37Tz-85zLwo5ebL-43">
           <mxGeometry x="-0.2914" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -660,13 +660,13 @@
         <mxCell id="CGL5Q37Tz-85zLwo5ebL-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CGL5Q37Tz-85zLwo5ebL-50" target="CGL5Q37Tz-85zLwo5ebL-39">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1060" y="405" />
+              <mxPoint x="-1060" y="540" />
               <mxPoint x="-1060" y="205" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="CGL5Q37Tz-85zLwo5ebL-50" value="再次退票" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-965.3" y="380" width="115" height="50" as="geometry" />
+          <mxGeometry x="-767" y="510" width="115" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
