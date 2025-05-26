@@ -543,6 +543,11 @@
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="CGL5Q37Tz-85zLwo5ebL-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CGL5Q37Tz-85zLwo5ebL-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1215" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="CGL5Q37Tz-85zLwo5ebL-2" value="退票" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1272.5" y="280" width="115" height="50" as="geometry" />
         </mxCell>
@@ -579,6 +584,9 @@
         </mxCell>
         <mxCell id="CGL5Q37Tz-85zLwo5ebL-9" value="30分钟" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1390" y="155" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CGL5Q37Tz-85zLwo5ebL-18" value="调用第三方退票接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1272" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
