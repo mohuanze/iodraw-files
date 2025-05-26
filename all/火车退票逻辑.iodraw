@@ -562,6 +562,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="CGL5Q37Tz-85zLwo5ebL-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CGL5Q37Tz-85zLwo5ebL-3" target="CGL5Q37Tz-85zLwo5ebL-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CGL5Q37Tz-85zLwo5ebL-3" value="请先登录系统!" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-872.5999999999999" y="282.5" width="115" height="50" as="geometry" />
         </mxCell>
@@ -683,14 +686,8 @@
         <mxCell id="CGL5Q37Tz-85zLwo5ebL-59" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1027.5" y="385" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CGL5Q37Tz-85zLwo5ebL-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CGL5Q37Tz-85zLwo5ebL-61" target="CGL5Q37Tz-85zLwo5ebL-62">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="CGL5Q37Tz-85zLwo5ebL-61" value="改为预订成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-872.5999999999999" y="375" width="115" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="CGL5Q37Tz-85zLwo5ebL-62" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-855.0999999999999" y="490" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
