@@ -531,18 +531,6 @@
         <mxCell id="CGL5Q37Tz-85zLwo5ebL-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1264.5" y="92.5" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CGL5Q37Tz-85zLwo5ebL-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="CGL5Q37Tz-85zLwo5ebL-2" target="CGL5Q37Tz-85zLwo5ebL-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-1420" y="290" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CGL5Q37Tz-85zLwo5ebL-15" value="查缓存" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CGL5Q37Tz-85zLwo5ebL-10">
-          <mxGeometry x="-0.0686" y="-2" relative="1" as="geometry">
-            <mxPoint x="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="CGL5Q37Tz-85zLwo5ebL-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CGL5Q37Tz-85zLwo5ebL-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1210" y="410" as="targetPoint" />
@@ -557,8 +545,10 @@
         <mxCell id="CGL5Q37Tz-85zLwo5ebL-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CGL5Q37Tz-85zLwo5ebL-5" target="CGL5Q37Tz-85zLwo5ebL-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CGL5Q37Tz-85zLwo5ebL-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CGL5Q37Tz-85zLwo5ebL-5" target="CGL5Q37Tz-85zLwo5ebL-8">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="CGL5Q37Tz-85zLwo5ebL-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CGL5Q37Tz-85zLwo5ebL-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1370" y="237.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="CGL5Q37Tz-85zLwo5ebL-5" value="登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1267" y="212.5" width="115" height="50" as="geometry" />
