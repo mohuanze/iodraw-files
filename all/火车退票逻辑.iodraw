@@ -591,7 +591,7 @@
         </mxCell>
         <mxCell id="CGL5Q37Tz-85zLwo5ebL-32" value="有" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CGL5Q37Tz-85zLwo5ebL-31">
           <mxGeometry x="-0.0127" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CGL5Q37Tz-85zLwo5ebL-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CGL5Q37Tz-85zLwo5ebL-8" target="CGL5Q37Tz-85zLwo5ebL-5">
