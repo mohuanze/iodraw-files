@@ -558,8 +558,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1350" y="205" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-1290" y="240" />
-              <mxPoint x="-1290" y="240" />
+              <mxPoint x="-1375" y="225" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -567,7 +566,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CGL5Q37Tz-85zLwo5ebL-5" value="登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1270" y="200" width="115" height="50" as="geometry" />
+          <mxGeometry x="-1267" y="200" width="115" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CGL5Q37Tz-85zLwo5ebL-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="CGL5Q37Tz-85zLwo5ebL-8" target="CGL5Q37Tz-85zLwo5ebL-2">
           <mxGeometry relative="1" as="geometry">
