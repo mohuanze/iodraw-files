@@ -613,11 +613,6 @@
         <mxCell id="CGL5Q37Tz-85zLwo5ebL-36" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1264.5" y="500" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CGL5Q37Tz-85zLwo5ebL-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CGL5Q37Tz-85zLwo5ebL-39">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-907.8" y="210" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="CGL5Q37Tz-85zLwo5ebL-38" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-962.8" y="92.5" width="110" height="40" as="geometry" />
         </mxCell>
@@ -628,7 +623,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CGL5Q37Tz-85zLwo5ebL-39" value="退票回调" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-962.8" y="180" width="115" height="50" as="geometry" />
+          <mxGeometry x="-965.3" y="180" width="115" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
