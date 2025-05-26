@@ -683,6 +683,9 @@
         <mxCell id="CGL5Q37Tz-85zLwo5ebL-59" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1027.5" y="385" width="110" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="CGL5Q37Tz-85zLwo5ebL-61" value="请先登录系统!" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-862.5999999999999" y="292.5" width="115" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
