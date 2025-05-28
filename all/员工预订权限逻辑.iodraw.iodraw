@@ -22,8 +22,8 @@
         <mxCell id="9FmAs6-jilHwx_UNDEl6-8" value="submit" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="250" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9FmAs6-jilHwx_UNDEl6-9" value="限本人预订" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="170" width="90" height="40" as="geometry" />
+        <mxCell id="9FmAs6-jilHwx_UNDEl6-9" value="查用户表，没有则拦截操作" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="360" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
