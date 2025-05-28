@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="9FmAs6-jilHwx_UNDEl6-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="80" width="100" height="40" as="geometry" />
+          <mxGeometry x="260" y="50" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9FmAs6-jilHwx_UNDEl6-2" value="限本人预订" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="160" width="90" height="40" as="geometry" />
@@ -16,7 +16,7 @@
         <mxCell id="9FmAs6-jilHwx_UNDEl6-4" value="为员工+外部出行人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="160" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9FmAs6-jilHwx_UNDEl6-5" value="限本人预订" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9FmAs6-jilHwx_UNDEl6-5" value="为员工+非员工预订" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="160" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
