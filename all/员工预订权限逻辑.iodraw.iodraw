@@ -10,6 +10,15 @@
         <mxCell id="9FmAs6-jilHwx_UNDEl6-2" value="限本人预订" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="160" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="9FmAs6-jilHwx_UNDEl6-3" value="限本人预订" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="160" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9FmAs6-jilHwx_UNDEl6-4" value="限本人预订" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="160" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9FmAs6-jilHwx_UNDEl6-5" value="限本人预订" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="160" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
