@@ -19,6 +19,12 @@
         <mxCell id="kyhW0cbMTLg4kz8QRHOP-5" value="回调订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="610" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kyhW0cbMTLg4kz8QRHOP-6" value="保存订单/记录账单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kyhW0cbMTLg4kz8QRHOP-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
