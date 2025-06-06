@@ -13,7 +13,7 @@
         <mxCell id="kyhW0cbMTLg4kz8QRHOP-3" value="判断金额" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kyhW0cbMTLg4kz8QRHOP-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kyhW0cbMTLg4kz8QRHOP-4" value="跳转打车页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
