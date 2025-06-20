@@ -29,8 +29,8 @@
         <mxCell id="_zguWRe0LigmdGXNA7q_-8" value="更新订单状态&lt;br&gt;(出票成功)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="480" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_zguWRe0LigmdGXNA7q_-9" value="更新订单状态、&lt;br&gt;退账单&lt;br&gt;(出票失败)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="490" width="100" height="40" as="geometry" />
+        <mxCell id="_zguWRe0LigmdGXNA7q_-9" value="更新订单状态&lt;br&gt;退账单&lt;br&gt;(出票失败)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="490" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_zguWRe0LigmdGXNA7q_-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_zguWRe0LigmdGXNA7q_-11" target="_zguWRe0LigmdGXNA7q_-6">
           <mxGeometry relative="1" as="geometry" />
