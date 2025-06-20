@@ -16,6 +16,13 @@
         <mxCell id="_zguWRe0LigmdGXNA7q_-2" value="下单(submit)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="160" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="_zguWRe0LigmdGXNA7q_-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_zguWRe0LigmdGXNA7q_-6" target="_zguWRe0LigmdGXNA7q_-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="245" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_zguWRe0LigmdGXNA7q_-6" value="记录账单、扣账户金额&lt;br&gt;(出票中)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="255" width="130" height="50" as="geometry" />
         </mxCell>
@@ -24,6 +31,9 @@
         </mxCell>
         <mxCell id="_zguWRe0LigmdGXNA7q_-9" value="退账单&lt;br&gt;(出票失败)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="490" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_zguWRe0LigmdGXNA7q_-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_zguWRe0LigmdGXNA7q_-11" target="_zguWRe0LigmdGXNA7q_-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_zguWRe0LigmdGXNA7q_-11" value="锁金额" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="255" width="100" height="50" as="geometry" />
