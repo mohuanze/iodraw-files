@@ -63,6 +63,9 @@
         <mxCell id="_zguWRe0LigmdGXNA7q_-22" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" target="_zguWRe0LigmdGXNA7q_-21" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="210" y="254" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="160" y="240" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
