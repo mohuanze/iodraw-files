@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_zguWRe0LigmdGXNA7q_-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_zguWRe0LigmdGXNA7q_-1" target="_zguWRe0LigmdGXNA7q_-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_zguWRe0LigmdGXNA7q_-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="70" width="100" height="40" as="geometry" />
         </mxCell>
@@ -11,7 +14,7 @@
           <mxGeometry x="390" y="160" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_zguWRe0LigmdGXNA7q_-6" value="预扣款&lt;br&gt;(出票中)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="240" width="100" height="40" as="geometry" />
+          <mxGeometry x="260" y="250" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_zguWRe0LigmdGXNA7q_-7" value="提交第三方出票" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="370" width="140" height="50" as="geometry" />
